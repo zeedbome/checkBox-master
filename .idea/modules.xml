@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\ongor1\Desktop\git\checkBox\app\app.iml" filepath="C:\Users\ongor1\Desktop\git\checkBox\app\app.iml" />
+      <module fileurl="file://C:\Users\ongor1\Desktop\git\checkBox\checkBox.iml" filepath="C:\Users\ongor1\Desktop\git\checkBox\checkBox.iml" />
+      <module fileurl="file://D:\111\checkBox-master\checkBox.iml" filepath="D:\111\checkBox-master\checkBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkBox-master.iml" filepath="$PROJECT_DIR$/checkBox-master.iml" />
+    </modules>
+  </component>
+</project>
